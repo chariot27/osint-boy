@@ -36,3 +36,10 @@ cd osint-boy
 
 # Instale as dependências
 pip install -r requirements.txt
+
+#rodar
+pip osintboy {domain}
+```
+
+<img width="1366" height="768" alt="{5267856C-CB07-42C1-8413-2F0B9B6A0492}" src="https://github.com/user-attachments/assets/e9ee131d-85d9-457a-8819-6b296626ffd5" />
+
