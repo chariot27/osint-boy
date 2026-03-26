@@ -1,0 +1,6 @@
+textual
+typer
+shodan
+dnspython
+httpx
+urllib3
